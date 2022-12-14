@@ -1,24 +1,24 @@
-# **Знакомство с языками программирования (семинары).** `Домашние Задания.`
+# **Знакомство с языками программирования (семинары) GeekBrains.** `Домашние Задания.`
 
 # Семинары:
 
-**Seminar 1** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Перейти к уроку")
 
-**Seminar 2** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Перейти к уроку")
 
-**Seminar 3** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Перейти к уроку")
 
-**Seminar 4** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204 "Перейти к уроку")
 
-**Seminar 5** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205 "Перейти к уроку")
 
-**Seminar 6** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206 "Перейти к уроку")
 
-**Seminar 7** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 7** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207 "Перейти к уроку")
 
-**Seminar 8** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 8** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208 "Перейти к уроку")
 
-**Seminar 9** - [Перейти](ссылка "Перейти к уроку")
+**Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209 "Перейти к уроку")
 
 ...
 
@@ -32,7 +32,7 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 ```
->[Решение](ссылка "Решение задачи 2")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%201/Task%202/Program.cs "Решение задачи 2")
 
 ### Задача 4:
 Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
