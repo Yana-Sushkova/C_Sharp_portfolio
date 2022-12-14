@@ -42,7 +42,7 @@ a = -9 b = -3 -> max = -3
 44 5 78 -> 78
 22 3 9 -> 22
 ```
->[Решение](ссылка "Решение задачи 4")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%201/Task%204/Program.cs "Решение задачи 4")
 
 ### Задача 6:
 Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
@@ -52,7 +52,7 @@ a = -9 b = -3 -> max = -3
 -3 -> нет
 7 -> нет
 ```
->[Решение](ссылка "Решение задачи 6")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%201/Task%206/Program.cs "Решение задачи 6")
 
 ### Задача 8:
 Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
@@ -61,7 +61,7 @@ a = -9 b = -3 -> max = -3
 5 -> 2, 4
 8 -> 2, 4, 6, 8
 ```
->[Решение](ссылка "Решение задачи 8")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%201/Task%208/Program.cs "Решение задачи 8")
 
 ***
 
@@ -75,7 +75,7 @@ a = -9 b = -3 -> max = -3
 782 -> 8
 918 -> 1
 ```
->[Решение](ссылка "Решение задачи 10")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%202/Task%2010/Program.cs "Решение задачи 10")
 
 ### Задача 13:
 Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
@@ -85,7 +85,9 @@ a = -9 b = -3 -> max = -3
 78 -> третьей цифры нет
 32679 -> 6
 ```
->[Решение](ссылка "Решение задачи 13")
+>[Решение 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%202/Task%2013/Program.cs "Решение 1 задачи 13")
+
+>[Решение 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%202/Task%2013_2/Program.cs "Решение 2 задачи 13")
 
 ### Задача 15:
 Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
@@ -95,7 +97,8 @@ a = -9 b = -3 -> max = -3
 7 -> да
 1 -> нет
 ```
->[Решение](ссылка "Решение задачи 15")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%202/Task%2015/Program.cs "Решение задачи 15")
+
 
 ***
 
@@ -109,7 +112,7 @@ a = -9 b = -3 -> max = -3
 12821 -> да
 23432 -> да
 ```
->[Решение](ссылка "Решение задачи 19")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%203/Task%2019/Program.cs "Решение задачи 19")
 
 ### Задача 21:
 Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
@@ -118,7 +121,7 @@ a = -9 b = -3 -> max = -3
 A (3,6,8); B (2,1,-7), -> 15.84
 A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
->[Решение](ссылка "Решение задачи 21")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%203/Task%2021/Program.cs "Решение задачи 21")
 
 ### Задача 23:
 Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
@@ -127,7 +130,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 3 -> 1, 8, 27
 5 -> 1, 8, 27, 64, 125
 ```
->[Решение](ссылка "Решение задачи 23")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%203/Task%2023/Program.cs "Решение задачи 23")
 
 ***
 
@@ -140,7 +143,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 3, 5 -> 243 (3⁵)
 2, 4 -> 16
 ```
->[Решение](ссылка "Решение задачи 25")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%204/Task%2025/Program.cs "Решение задачи 25")
 
 ### Задача 27:
 Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
@@ -150,7 +153,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 82 -> 10
 9012 -> 12
 ```
->[Решение](ссылка "Решение задачи 27")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%204/Task%2027/Program.cs "Решение задачи 27")
 
 ### Задача 29:
 Напишите программу, которая задаёт массив из N элементов и выводит их на экран.
@@ -159,7 +162,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 5 -> [1, 2, 5, 7, 19]
 3 -> [6, 1, 33]
 ```
->[Решение](ссылка "Решение задачи 29")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%204/Task%2029/Program.cs "Решение задачи 29")
 
 ***
 
@@ -169,19 +172,19 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 34")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%205/Task%2034/Program.cs "Решение задачи 34")
 
 ### Задача 36:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 36")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%205/Task%2036/Program.cs "Решение задачи 36")
 
-### Задача 36:
+### Задача 38:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 38")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%205/Task%2038/Program.cs "Решение задачи 38")
 
 ***
 
@@ -191,13 +194,13 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 41")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2041/Program.cs "Решение задачи 41")
 
 ### Задача 43:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 43")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2043/Program.cs "Решение задачи 43")
 
 ***
 
@@ -207,19 +210,19 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 47")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2047/Program.cs "Решение задачи 47")
 
 ### Задача 50:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 50")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2050/Program.cs "Решение задачи 50")
 
 ### Задача 52:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 52")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2052/Program.cs "Решение задачи 52")
 
 ***
 
@@ -229,31 +232,31 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 54")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%208/Task%2054/Program.cs "Решение задачи 54")
 
 ### Задача 56:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 56")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%208/Task%2056/Program.cs "Решение задачи 56")
 
 ### Задача 58:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 58")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%208/Task%2058/Program.cs "Решение задачи 58")
 
 ### Задача 60:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 60")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%208/Task%2060/Program.cs "Решение задачи 60")
 
 ### Задача 62:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 62")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%208/Task%2062/Program.cs "Решение задачи 62")
 
 ***
 
@@ -263,19 +266,19 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 64")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%209/Task%2064/Program.cs "Решение задачи 64")
 
 ### Задача 66:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 66")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%209/Task%2066/Program.cs "Решение задачи 66")
 
 ### Задача 68:
 ```
 Пример:
 ```
->[Решение](ссылка "Решение задачи 68")
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%209/Task%2068/Program.cs "Решение задачи 68")
 
 
 
