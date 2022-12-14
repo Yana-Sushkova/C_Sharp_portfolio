@@ -1,6 +1,6 @@
 # **Знакомство с языками программирования (семинары) GeekBrains.** `Домашние Задания.`
 
-# Семинары:
+## Семинары:
 
 **Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Перейти к уроку")
 
@@ -22,7 +22,7 @@
 
 ...
 
-## [Seminar 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%201/Task%202/Program.cs "Задачи к Семинару 1")
+## [Seminar 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
 
 ### Задача 2:
 Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
@@ -65,7 +65,7 @@ a = -9 b = -3 -> max = -3
 
 ***
 
-## [Seminar 2](ссылка "Задачи к Семинару 2")
+## [Seminar 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Задачи к Семинару 2")
 
 ### Задача 10:
 Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
@@ -99,7 +99,7 @@ a = -9 b = -3 -> max = -3
 
 ***
 
-## [Seminar 3](ссылка "Задачи к Семинару 3")
+## [Seminar 3](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Задачи к Семинару 3")
 
 ### Задача 19:
 Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
@@ -131,7 +131,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 4](ссылка  "Задачи к Семинару 4")
+## [Seminar 4](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204  "Задачи к Семинару 4")
 
 ### Задача 25:
 Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
@@ -163,7 +163,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 5](ссылка  "Задачи к Семинару 5")
+## [Seminar 5](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205  "Задачи к Семинару 5")
 
 ### Задача 34:
 ```
@@ -185,7 +185,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 6](ссылка  "Задачи к Семинару 6")
+## [Seminar 6](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206  "Задачи к Семинару 6")
 
 ### Задача 41:
 ```
@@ -201,7 +201,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 7](ссылка  "Задачи к Семинару 6")
+## [Seminar 7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 6")
 
 ### Задача 47:
 ```
@@ -223,7 +223,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 8](ссылка  "Задачи к Семинару 8")
+## [Seminar 8](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
 
 ### Задача 54:
 ```
@@ -257,7 +257,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 9](ссылка  "Задачи к Семинару 9")
+## [Seminar 9](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
 
 ### Задача 64:
 ```
