@@ -594,7 +594,9 @@ M = 1, N = 7 -> В массиве отсутствует элемент в та�
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
 ```
->[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2052/Program.cs "Решение задачи 52")
+>[Решение 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2052_1/Program.cs "Решение 1 задачи 52")
+
+>[Решение 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%207/Task%2052_2/Program.cs "Решение 2 задачи 52")
 
 ***
 
