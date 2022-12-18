@@ -4,27 +4,27 @@
 
 ## Решение практических заданий к семинарам:
 
-**Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Перейти к уроку")
+**Seminar 1** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_1 "Перейти к уроку")
 
-**Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Перейти к уроку")
+**Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_2 "Перейти к уроку")
 
-**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Перейти к уроку")
+**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_3 "Перейти к уроку")
 
-**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204 "Перейти к уроку")
+**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_4 "Перейти к уроку")
 
-**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205 "Перейти к уроку")
+**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_5 "Перейти к уроку")
 
-**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206 "Перейти к уроку")
+**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_6 "Перейти к уроку")
 
-**Seminar 7** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207 "Перейти к уроку")
+**Seminar 7** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_7 "Перейти к уроку")
 
-**Seminar 8** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208 "Перейти к уроку")
+**Seminar 8** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_8 "Перейти к уроку")
 
-**Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209 "Перейти к уроку")
+**Seminar 9** - [Перейти](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/README.md#Seminar_9 "Перейти к уроку")
 
 ...
 
-## [Seminar 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
+## [Seminar_1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%201 "Задачи к Семинару 1")
 
 ### Задача 0: 
 Напишите программу которая на вход принимает число и выдает его 
@@ -118,7 +118,7 @@ a = -9 b = -3 -> max = -3
 
 ***
 
-## [Seminar 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Задачи к Семинару 2")
+## [Seminar_2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%202 "Задачи к Семинару 2")
 
 ### Задача 9:
 Напишите программу, которая выводит случайное число из отрезка [10, 99] и показывает
@@ -206,7 +206,7 @@ a = -9 b = -3 -> max = -3
 
 ***
 
-## [Seminar 3](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Задачи к Семинару 3")
+## [Seminar_3](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%203 "Задачи к Семинару 3")
 
 ### Задача 17:
 Напишите программу, которая принимает на вход координаты точки (X и Y), причем X ≠ 0 и Y ≠ 0 и выдаёт номер четверти
@@ -281,7 +281,7 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ***
 
-## [Seminar 4](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204  "Задачи к Семинару 4")
+## [Seminar_4](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%204  "Задачи к Семинару 4")
 
 ### Задача 24:
 Напишите программу, которая принимает на вход число (А) и выдаёт сумму чисел от 1 до А
@@ -354,7 +354,7 @@ P.S. В примерах не 8 элементов в массиве, ориен
 
 ***
 
-## [Seminar 5](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205  "Задачи к Семинару 5")
+## [Seminar_5](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%205  "Задачи к Семинару 5")
 
 ### Задача 34:
 Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет 
@@ -384,7 +384,7 @@ P.S. В примерах не 8 элементов в массиве, ориен
 
 ***
 
-## [Seminar 6](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206  "Задачи к Семинару 6")
+## [Seminar_6](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%206  "Задачи к Семинару 6")
 
 ### Задача 41:
 Пользователь вводит с клавиатуры M чисел. 
@@ -406,7 +406,7 @@ b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
 ***
 
-## [Seminar 7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 6")
+## [Seminar_7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 6")
 
 ### Задача 47:
 Запросите от пользователя размерности двумерного массива. 
@@ -447,7 +447,7 @@ M = 1, N = 7 -> В массиве отсутствует элемент в та�
 
 ***
 
-## [Seminar 8](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
+## [Seminar_8](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%208  "Задачи к Семинару 8")
 
 ### Задача 54:
 Задайте двумерный массив. Напишите программу, которая 
@@ -518,7 +518,7 @@ M = 1, N = 7 -> В массиве отсутствует элемент в та�
 
 ***
 
-## [Seminar 9](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
+## [Seminar_9](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%209  "Задачи к Семинару 9")
 
 ### Задача 64:
 Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.
