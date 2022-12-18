@@ -494,6 +494,14 @@ b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
 >[Решение 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2044_2/Program.cs "Решение 2 задачи 44")
 
+### Задача 45:
+Напишите программу, которая будет создавать копию заданного массива с помощью поэлементного копирования.
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2045/Program.cs "Решение задачи 45")
+
 ***
 
 ## [Seminar_7](https://github.com/Yana-Sushkova/C_Sharp_portfolio/tree/main/Seminar%207  "Задачи к Семинару 6")
