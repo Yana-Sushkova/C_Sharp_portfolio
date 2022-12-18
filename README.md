@@ -482,6 +482,7 @@ b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 Если N = 7 -> 0 1 1 2 3 5 8
 ```
 >[Решение 1](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2044_1/Program.cs "Решение 1 задачи 44")
+
 >[Решение 2](https://github.com/Yana-Sushkova/C_Sharp_portfolio/blob/main/Seminar%206/Task%2044_2/Program.cs "Решение 2 задачи 44")
 
 ***
