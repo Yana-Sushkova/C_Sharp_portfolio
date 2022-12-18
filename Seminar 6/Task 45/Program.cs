@@ -8,7 +8,7 @@ void PrintArray(int[] arrayToPrint)
         Console.Write("{0}", arrayToPrint[i]);
         if (i < arrayToPrint.Length - 1)
         {
-            Console.Write("   ");
+            Console.Write(", ");
         }
     }
     Console.WriteLine("]");
